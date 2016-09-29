@@ -1,0 +1,24 @@
+#chat {
+    list-style: none;
+    background: none;
+    margin: 0;
+    padding: 0 0 50px 0;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+#chat li {
+    padding: 0.5rem;
+    overflow: hidden;
+    display: flex;
+}
+#formi {
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    width: 100%;
+    z-index: 99;
+    padding-left: 75px;
+    border: none;
+    outline: none;
+}
