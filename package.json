@@ -27,7 +27,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pfening/gaborbot.git"
+    "url": "git+https://github.com/pfening/ChatBot.git"
   },
-  "homepage": "https://github.com/pfening/gaborbot#readme"
+  "homepage": "https://github.com/pfening/ChatBot#readme"
 }
