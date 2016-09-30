@@ -11,14 +11,11 @@
     overflow: hidden;
     display: flex;
 }
-#formi {
-    position: fixed;
-    bottom: 0px;
-    left: 0px;
-    right: 0px;
-    width: 100%;
-    z-index: 99;
-    padding-left: 75px;
-    border: none;
-    outline: none;
+
+.fixed {
+        position: fixed;
+        right: 15%;
+}
+.scrollit {
+        float: left;
 }
