@@ -6,11 +6,7 @@ router.get('/', function(req, res){
 	res.render('index');
 });
 
-//router.get('/', ensureAuthenticated, function(req, res){
-//	res.render('index');
-//});
-
-router.get('/teaching', function(req, res){
+router.get('/teaching',ensureAuthenticated, function(req, res){
   res.render('teaching');
 });
 
